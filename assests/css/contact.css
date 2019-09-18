@@ -1,0 +1,70 @@
+.wrap{
+    position: absolute;
+    left: 35%;
+    font-size: 45%
+ }
+
+ label{
+    display: inline-block;
+    float: left;
+    width: 250px;
+    text-align: left;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+  font-size: 15px;
+
+}
+input {
+  float: left;
+  width: 109%;
+  font-family: 'Times New Roman', Times, serif;
+  font-size: 20px
+}
+textarea{
+    margin: 0px, 0px,14px;
+    width: 587px;
+    height: 800px;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 19px;
+}
+ button{
+    margin: -20px -50px; 
+    position:relative;
+    top:50%; 
+    left:50%;
+ }
+
+body{
+background: #f1f2ed;
+}
+
+.name{
+  font-family: 'Times New Roman', Times, serif;
+}
+
+.email{
+  font-family: 'Times New Roman', Times, serif;
+}
+
+.subject{
+  font-family: 'Times New Roman', Times, serif;
+}
+
+.box{
+  align-items: initial;
+  float: right;
+  width: 252px;
+  font-family: 'Times New Roman', Times, serif;
+  font-size: 20px;
+  padding-top:5px;
+  border-width:5px;
+  margin-right: 250px;
+  padding-bottom:10px;
+}
+
+/*.container{
+  padding-top:5px;
+  border-width:1px;
+  padding-left:3px;
+  padding-bottom:10px;
+  padding-right: 3px;
+}

@@ -1,0 +1,41 @@
+.wrap{
+  position: absolute;
+  left: 35%;
+  font-size: 45%
+}
+ header{
+   background-color:orange;
+ }
+.hometxt{
+    font-family:fantasy ;
+    color:black;
+    font-size: 50px;
+    font-weight: 800;
+    letter-spacing: 8px;
+    margin-bottom: 20px;
+    position: relative;
+    }
+.text2{
+  font-family:fantasy ;
+  color: black;
+  font-size: 40px;
+  font-weight: 500;
+  letter-spacing: 8px;
+  margin-bottom: 20px;
+  position: relative;
+}
+  .img-container {
+    float: left;
+   }
+  #purple{
+    margin-left: 30px;
+    margin-right: 40px;
+    margin-bottom: 20px;
+    margin-top: 20px;
+  }
+
+.btn-btn-primary-btn-lg{
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}

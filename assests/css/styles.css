@@ -1,0 +1,20 @@
+body{
+    background: black;
+    background-image: url(/assests/images/IMG_1641.jpeg);
+}
+
+#title{
+    color: white;
+    text-align: center;
+    font-family: Impa;
+    font-size: 90;
+}
+
+.wrap{
+position: absolute;
+left: 31%;
+ }
+
+ ul{
+    color: white;
+ }
