@@ -21,21 +21,36 @@
   font-size: 40px;
   font-weight: 500;
   letter-spacing: 8px;
-  margin-bottom: 20px;
+  margin-bottom: 10px;
   position: relative;
 }
-  .img-container {
-    float: left;
-   }
-  #purple{
-    margin-left: 30px;
-    margin-right: 40px;
-    margin-bottom: 20px;
-    margin-top: 20px;
-  }
 
-.btn-btn-primary-btn-lg{
-  display: flex;
-  align-items: center;
-  justify-content: center;
+
+.container{
+  background-image: url(..//images/IMG_1641.jpeg);
+  background-repeat: no-repeat;
+  background-size: 100% 100%;
+  width: 98%;
+  margin-left: auto;
+  margin-right: auto;
+  height: 700px;
+}
+
+.summer-container{
+  background-image: url(..//images/IMG_1630.jpeg);
+  background-repeat: no-repeat;
+  background-size: 100% 100%;
+  width: 98%;
+  margin-left: auto;
+  margin-right: auto;
+  height: 700px;
+
+}
+.sqs-block-content{
+  text-align: center;
+}
+
+.sqs-block-button{
+  background color: black;
+  border-bottom: 2px soild black;
 }

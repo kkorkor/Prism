@@ -88,3 +88,13 @@ font-size: 20px;
   top: 260px;
   background-color:black
 }
+
+.socialLinks{
+  width: 20%;
+  float: right;
+}
+
+.footer{
+  float: left;
+  width: 20%;
+}
