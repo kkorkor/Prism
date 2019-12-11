@@ -7,7 +7,7 @@
    background-color:orange;
  }
 .hometxt{
-    font-family:fantasy ;
+    font-family: Lucida;
     color:black;
     font-size: 50px;
     font-weight: 800;
@@ -16,7 +16,7 @@
     position: relative;
     }
 .text2{
-  font-family:fantasy ;
+  font-family:Lucida;
   color: black;
   font-size: 40px;
   font-weight: 500;
@@ -34,6 +34,9 @@
   margin-left: auto;
   margin-right: auto;
   height: 700px;
+  text-align: center;
+  color: white;
+  font-size: 10mm;
 }
 
 .summer-container{
@@ -45,6 +48,7 @@
   margin-right: auto;
   height: 700px;
   text-align: center;
-
+  color: white;
+  font-size: 10mm;
 }
 
