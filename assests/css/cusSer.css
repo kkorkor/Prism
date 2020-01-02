@@ -41,8 +41,9 @@ font-size: 36px;
 }
 
 .contact-container{
-margin-left:650;
-font-size: 20px;
+  margin-left:350;
+  font-size: 20px;
+  margin-top: 40;
 }
 
 /* Style the links inside the sidenav */
